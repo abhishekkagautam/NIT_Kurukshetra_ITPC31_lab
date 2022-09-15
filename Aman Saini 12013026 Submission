@@ -1,0 +1,23 @@
+Name: Aman Saini
+RollNo.: 12013026
+Branch and Section: IT-03
+
+Mobile Application Development-Lab
+
+Java Code:
+
+package com.example.helloworld;
+
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+
+public class MainActivity extends AppCompatActivity {
+   @Override
+   protected void onCreate(Bundle savedInstanceState) {
+       super.onCreate(savedInstanceState);
+       setContentView(R.layout.activity_main);
+   }
+}
+
+
+Output:
